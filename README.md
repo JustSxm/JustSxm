@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @JustSxm
-- 👀 I’m interested in music
-- 🌱 I’m currently learning how to live
+- 👀 I love music
 - 💞️ I’m looking to collaborate on discord projects
-- 📫 How to reach me : Sam#5845
+- 📫 How to reach me : Sxm#6666
