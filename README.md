@@ -3,7 +3,7 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=justsxm&show_icons=true&title_color=9F7CFF&text_color=ededed&bg_color=000000&locale=en" alt="justsxm" /></p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=justsxm&label=Profile%20Views&color=824dff&style=flat" alt="justsxm" /> </p>
 
-- 🔭 I’m currently working on [Deals Scraper](https://github.com/JustSxm/CursedClient)
+- 🔭 I’m currently working on [Cursed Client](https://github.com/JustSxm/CursedClient)
 
 - 📫 How to reach me (On Discord): **Sxm#7720**
 
