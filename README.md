@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sam</h1>
 <h3 align="center">A passionate computer science college student</h3>
 
-<div align="center">🛠 I’m currently working on <a href="https://github.com/JustSxm/CursedClient">Cursed Client</a></div>
+<div align="center">🛠 I’m currently working on <a href="https://github.com/JustSxm/BoxFight">BoxFight</a></div>
 
 <div align="center"><h2>My Contacts</h2></div>
 <div align="center">
