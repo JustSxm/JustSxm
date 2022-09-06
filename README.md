@@ -57,8 +57,3 @@
   <br>
 </div>
 
-Java
-PHP
-C#
-Go
-
