@@ -100,9 +100,9 @@
 <div align="center">
 
 <a href="https://github.com/0xabdulkhalid/">
-  <img src="https://github-readme-stats.vercel.app/api?username=JustSxm&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="330"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustSxm&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="330"  alt="justsxm"/>
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JustSxm&theme=dark&hide_border=false" width="330"  alt="justsxm"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JustSxm&theme=dark&hide_border=false&include_all_commits=true&count_private=true" width="33%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JustSxm&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="33%"  alt="justsxm"/>
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JustSxm&theme=dark&hide_border=false" width="33%"  alt="justsxm"/>
 
 </a>
 </div>
