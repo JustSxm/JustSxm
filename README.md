@@ -123,7 +123,7 @@
 <ul>
 
 <li>
-<img src="https://img.shields.io/badge/discord: Sxm%237720-%235865F2?style=for-the-badge&logo=discord&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+<img src="https://img.shields.io/badge/discord: flirtiest-%235865F2?style=for-the-badge&logo=discord&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>
 
