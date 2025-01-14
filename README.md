@@ -11,7 +11,7 @@
 
 
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## **About me**
 
 <picture> <img align="right" src="https://avatars.githubusercontent.com/u/42727829?v=4" width = 30%></picture>
 
