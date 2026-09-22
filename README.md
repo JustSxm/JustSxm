@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Samuel, I write software for a living.
+I'm Samuel, a software developer focused on backend architectures, enterprise software modernization, and systems evolution. Known for high technical adaptability across diverse stacks, I excel at quickly mastering unfamiliar codebases, designing resilient automation pipelines, and integrating modern technologies to solve complex engineering challenges.
 
 ### 👨‍💻 Projects I'm proud of
 - **[JustSxm/Deals-Scraper](https://github.com/JustSxm/Deals-Scraper)** - Multi-platform marketplace scraper aggregating deals across Facebook Marketplace, Kijiji, and eBay
